@@ -1,4 +1,2 @@
-# Mbodied AI 
-
 Coming soon.
 
