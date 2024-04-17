@@ -1,7 +1,8 @@
-<div style="text-align: right;">
-<img src="https://github.com/MbodiAI/.github/assets/22511797/05e2f8cb-22f2-453c-bde3-3e05faa8532b" alt="Alt text" style="width: 160px;">   
-  <img src="https://github.com/MbodiAI/.github/assets/22511797/a4887659-2e63-48cd-86c2-bdece1432f5c" alt="Alt text" style="width: 80px; vertical-align: bottom;">
+<div >
+<img src="https://github.com/MbodiAI/.github/assets/22511797/65741d0e-40ce-4712-aefb-51636f74c3ad" alt="Alt text" style="width: 400px;">   
+<img src="https://github.com/MbodiAI/.github/assets/22511797/a4887659-2e63-48cd-86c2-bdece1432f5c" alt="Alt text" style="width: 80px; vertical-align: bottom;">
 </div>
 
 #
-  Coming Soon.
+
+Coming soon.
