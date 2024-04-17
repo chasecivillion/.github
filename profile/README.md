@@ -4,5 +4,6 @@
 </div>
 
 #
+**Cross embodiment data pipelines for transfer learning, data collection, inference, training, and more.**
 
-Cross embodiment data pipelines for collection, inference, training, and more.
+Coming Soon.
